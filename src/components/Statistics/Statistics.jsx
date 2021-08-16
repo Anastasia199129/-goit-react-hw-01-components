@@ -1,14 +1,7 @@
 import PropTypes from 'prop-types';
 import StatisticsList from './Statistics_list';
-import s from './Statistics.module.css';
+import s from './statistics.module.css';
 
-// const colors = [
-//   { color: 'aqua' },
-//   { color: 'blueviolet' },
-//   { color: 'chartreuse' },
-//   { color: 'coral' },
-//   { color: 'darkmagenta' },
-// ];
 
 const Statistics = ({ stats , title}) => {
     return (
