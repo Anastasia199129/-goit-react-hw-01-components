@@ -21,7 +21,7 @@ StatisticsList.propTypes = {
     items: PropTypes.arrayOf(PropTypes.shape({
       id: PropTypes.string.isRequired,
       label: PropTypes.string,
-      performance: PropTypes.number
+      percentage: PropTypes.number
 
       
     }))
