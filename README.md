@@ -86,4 +86,4 @@ This section has moved here:
 
 # -goit-react-hw-01-components
 
-<!-- ////oooo///// -->
+<!-- ////oooo00///// -->
